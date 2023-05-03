@@ -5,5 +5,5 @@ transition CSS-переходу є скороченим властивістю �
 * *transition: margin-right 4s*;
 
 * /* назва властивості | тривалість | затримка */
-* transition: margin-right 4s 1s;
+* *transition: margin-right 4s 1s*;
 
