@@ -15,3 +15,6 @@ transition CSS-переходу є скороченим властивістю �
 
 * /* Apply to 2 properties */
 * *transition: margin-right 4s, color 1s*;
+
+* /* Застосувати до всіх змінених властивостей */
+* *transition: all 0.5s ease-out*;
