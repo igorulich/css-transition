@@ -18,3 +18,10 @@ transition CSS-переходу є скороченим властивістю �
 
 * /* Застосувати до всіх змінених властивостей */
 * *transition: all 0.5s ease-out*;
+
+* /* Глобальні значення */
+* *transition: inherit*;
+* *transition: initial*;
+* *transition: revert*;
+* *transition: revert-layer*;
+* *transition: unset*;
