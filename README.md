@@ -25,4 +25,4 @@ transition CSS-переходу є скороченим властивістю �
 * *transition: revert*;
 * *transition: revert-layer*;
 * *transition: unset*;
-  // content: linear-gradient(#fffdfd6e, #f9f9fa54);
+* // content: linear-gradient(#fffdfd6e, #f9f9fa54);
